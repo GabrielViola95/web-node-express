@@ -1,0 +1,23 @@
+nav{
+    font-family: 'Spicy Rice', cursive;
+    background: rgb(46,43,79);
+    background: linear-gradient(90deg, rgb(28, 26, 48) 0%, rgb(10, 17, 34) 100%);
+}
+body{
+    background: rgb(46,43,79);
+    background: linear-gradient(90deg, rgba(46,43,79,1) 0%, rgb(19, 33, 66) 100%);
+}
+footer{
+    display: flex;
+    height: 300px;
+    align-items: end;
+    justify-content: center;
+}
+
+.image{
+    height: auto;
+    min-width: 100px;
+    width: 90%;
+    max-width: 400px;
+    margin: 50px 0;
+}
